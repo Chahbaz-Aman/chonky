@@ -1,0 +1,6 @@
+tables
+images
+data/*
+.ipynb_checkpoints
+__pycache__
+openai.env
